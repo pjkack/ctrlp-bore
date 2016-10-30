@@ -16,7 +16,7 @@ call add(g:ctrlp_ext_vars, {
 	\ 'enter': 'ctrlp#bore#enter()',
 	\ 'exit': 'ctrlp#bore#exit()',
 	\ 'opts': 'ctrlp#bore#opts()',
-	\ 'sort': 0,
+	\ 'sort': 1,
 	\ 'specinput': 0,
 	\ })
 
